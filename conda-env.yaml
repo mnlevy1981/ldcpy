@@ -1,0 +1,14 @@
+name: ldcpy
+channels:
+  - conda-forge
+dependencies:
+  -  xarray
+  -  numpy
+  -  netcdf4
+  -  cython
+  -  scipy
+  -  matplotlib
+  -  cartopy
+  -  cmocean
+  -  jupyterlab
+  -  intake-esm
